@@ -1,14 +1,23 @@
 {
-
-"jobs": [
-  {
-    "name": "name_test", 
-    "description": "desc_test", 
-    "profile": "profile_test",
-    "contract_type": "contract_test",
-    "language": "fr",
-    "office_city": "Las Vegas",
-    "office_country_code": 1,
-	}
-  ]
+    "test_dummy_key": "dummy_value",
+    "jobs": [
+        {
+            "name": "name_test",
+            "description": "desc_test",
+            "profile": "profile_test",
+            "contract_type": "contract_test",
+            "language": "fr",
+            "office_city": "Las Vegas",
+            "office_country_code": 1
+        },
+        {
+            "name": "name_test_2",
+            "description": "desc_test_2",
+            "profile": "profile_test_2",
+            "contract_type": "contract_test_2",
+            "language": "fr",
+            "office_city": "Las Vegas",
+            "office_country_code": 1
+        }
+    ]
 }
