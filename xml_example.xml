@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <test_dummy_key>dummy_value</test_dummy_key>
+  <jobs>
+    <name>name_test</name>
+    <description>desc_test</description>
+    <profile>profile_test</profile>
+    <contract_type>contract_test</contract_type>
+    <language>fr</language>
+    <office_city>Las Vegas</office_city>
+    <office_country_code>1</office_country_code>
+  </jobs>
+  <jobs>
+    <name>name_test_2</name>
+    <description>desc_test_2</description>
+    <profile>profile_test_2</profile>
+    <contract_type>contract_test_2</contract_type>
+    <language>fr</language>
+    <office_city>Las Vegas</office_city>
+    <office_country_code>1</office_country_code>
+  </jobs>
+</root>
