@@ -1,23 +1,40 @@
 {
-	"test_dummy_key": "dummy_value",
-	"jobs": [
-		{
-			"name": "name_test",
-			"description": "desc_test",
-			"profile": "profile_test",
-			"contract_type": "contract_test",
-			"language": "fr",
-			"office_city": "Las Vegas",
-			"office_country_code": 1
-		},
-		{
-			"name": "name_test_2",
-			"description": "desc_test_2",
-			"profile": "profile_test_2",
-			"contract_type": "contract_test_2",
-			"language": "fr",
-			"office_city": "Las Vegas",
-			"office_country_code": 1
-		}
-	]
+  "product": "Live JSON generator",
+  "version": 3.1,
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "demo": true,
+  "person": {
+    "id": 12345,
+    "name": "John Doe",
+    "phones": {
+      "home": "800-123-4567",
+      "mobile": "877-123-1234"
+    },
+    "email": [
+      "jd@example.com",
+      "jd@example.org"
+    ],
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true,
+    "jobs": [
+      {
+        "name": "Jane Doe",
+        "description": "test",
+        "profile": "spouse",
+        "contract_type": "Jane Doe",
+        "language": "fr",
+        "office_city": "Las Vegas",
+        "office_country_code": 1
+      },
+      {
+        "name": "Jane Doe 2",
+        "description": "test",
+        "profile": "spouse",
+        "contract_type": "Jane Doe",
+        "language": "fr",
+        "office_city": "Las Vegas",
+        "office_country_code": 1
+      },
+    ]
+  }
 }
